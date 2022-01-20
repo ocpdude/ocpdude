@@ -1,4 +1,4 @@
-<img src= "https://github.com/ocpdude/ocpdude/blob/main/ocpdude-banner.jpg" alt="OCPdude YouTube banner" width="1920" height="420" align="center">
+<img src= "https://github.com/ocpdude/ocpdude/blob/main/ocpdude-banner.jpg" alt="OCPdude YouTube banner" width="1920" height="480" align="center">
 <!--
 **ocpdude/ocpdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
