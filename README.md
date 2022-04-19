@@ -1,4 +1,5 @@
 <img src= "https://github.com/ocpdude/ocpdude/blob/main/gh-ocp-3.jpg" alt="OCPdude YouTube banner" width="800" height="377">
+![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCcFM3JwN_ae72n2TU9JkcMQ?label=Youtube%20subscribers&style=flat-square)](https://www.youtube.com/channel/UCcFM3JwN_ae72n2TU9JkcMQ)<br />
 <!--
 **ocpdude/ocpdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
