@@ -1,4 +1,4 @@
-<img src= "https://github.com/ocpdude/ocpdude/assets/73440142/be8445ce-f92a-4265-9413-0766d0d05d9c)" alt="OCPdude YouTube banner" width="800" height="333">
+<img src= "https://github.com/ocpdude/ocpdude/assets/73440142/74a133e6-fff5-416a-bcab-bb565323ab25)" alt="OCPdude YouTube banner" width="800" height="385">
 
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCcFM3JwN_ae72n2TU9JkcMQ?label=Youtube%20subscribers&style=flat-square)](https://www.youtube.com/channel/UCcFM3JwN_ae72n2TU9JkcMQ)
 
