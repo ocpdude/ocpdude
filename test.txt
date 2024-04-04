@@ -1,3 +1,4 @@
 test
 test .github.com
 test -github.com
+test .github.com x2
