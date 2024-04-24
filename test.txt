@@ -3,3 +3,4 @@ test .github.com
 test -github.com
 test .github.com x2
 test fsfull
+test pat-access token test
