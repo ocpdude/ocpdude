@@ -6,3 +6,4 @@ test fsfull
 test pat-access token test
 test blocking ssh access
 test blocking pat access (take 2)
+test blocking pat - fully deployed
