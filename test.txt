@@ -1,17 +1,2 @@
 test
-test .github.com
-test -github.com
-test .github.com x2
-test fsfull
-test pat-access token test
-test blocking ssh access
-test blocking pat access (take 2)
-test blocking pat - fully deployed
-test logged out of ocpdude
-test this is EMU
-test PAT push
-test PAT push x2
-test -cleared gh cache
-test auth token 
-test setup-git 
-test pat - ocpdude
+- test login 426 ocpdude pat
