@@ -14,3 +14,4 @@ test PAT push x2
 test -cleared gh cache
 test auth token 
 test setup-git 
+test pat - ocpdude
