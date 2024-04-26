@@ -8,3 +8,4 @@ test blocking ssh access
 test blocking pat access (take 2)
 test blocking pat - fully deployed
 test logged out of ocpdude
+test this is EMU
