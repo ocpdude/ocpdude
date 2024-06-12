@@ -3,3 +3,4 @@ test
 - test setup-git
 - test empty/lx
 - test nocred
+- test switch
