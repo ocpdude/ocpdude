@@ -4,3 +4,4 @@ test
 - test empty/lx
 - test nocred
 - test switch
+- test blockme
