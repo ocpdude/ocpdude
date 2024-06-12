@@ -2,3 +2,4 @@ test
 - test login 426 ocpdude pat
 - test setup-git
 - test empty/lx
+- test nocred
