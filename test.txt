@@ -1,3 +1,4 @@
 test
 - proxy tune
 - proxy all
+- no_cache
