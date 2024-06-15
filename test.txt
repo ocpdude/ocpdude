@@ -4,3 +4,4 @@ test
 - no_cache
 - more
 - ssl
+- precheck
