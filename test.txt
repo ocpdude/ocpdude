@@ -5,3 +5,4 @@ test
 - more
 - ssl
 - precheck
+- direct
