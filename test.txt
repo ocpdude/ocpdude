@@ -1,8 +1,1 @@
 test
-- proxy tune
-- proxy all
-- no_cache
-- more
-- ssl
-- precheck
-- direct
