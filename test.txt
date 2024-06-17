@@ -1,3 +1,4 @@
 test
 cache deny github_com
 post
+regex
