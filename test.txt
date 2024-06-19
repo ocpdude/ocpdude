@@ -2,3 +2,4 @@ bypass
 bypass 2
 bypass - old test
 test - cache rule
+test - cache rule 2
