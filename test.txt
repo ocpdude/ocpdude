@@ -5,3 +5,4 @@ test - cache rule
 test - cache rule 2
 bypass test - deny rule
 bypass test - allow rule
+bypass test - allow * deny !
