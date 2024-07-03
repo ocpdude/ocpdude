@@ -4,3 +4,4 @@ icap off
 log 5
 cache log
 emu
+domains
