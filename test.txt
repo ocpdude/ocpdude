@@ -3,3 +3,4 @@ first test 7/3
 icap off
 log 5
 cache log
+emu
